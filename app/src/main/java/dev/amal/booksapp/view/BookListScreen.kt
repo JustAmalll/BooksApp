@@ -24,6 +24,7 @@ import dev.amal.booksapp.ui.theme.text
 import dev.amal.booksapp.utils.ViewState
 import dev.amal.booksapp.viewmodel.MainViewModel
 
+@ExperimentalCoilApi
 @ExperimentalComposeUiApi
 @Composable
 fun BookListScreen(viewModel: MainViewModel, actions: MainActions) {

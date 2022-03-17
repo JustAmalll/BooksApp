@@ -95,14 +95,3 @@ fun ChipView(category: List<String>) {
     }
 }
 
-
-//    Box(
-//        modifier = Modifier
-//            .clip(RoundedCornerShape(12.dp))
-//            .background(primary.copy(.10F))
-//            .padding(vertical = 5.dp, horizontal = 12.dp),
-//        contentAlignment = Alignment.Center
-//    ) {
-//        Text(text = category, style = typography.caption, color = primary)
-//    }
-

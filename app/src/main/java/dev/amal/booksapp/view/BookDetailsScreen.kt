@@ -19,7 +19,7 @@ import dev.amal.booksapp.navigation.MainActions
 import dev.amal.booksapp.ui.theme.typography
 import dev.amal.booksapp.utils.DetailViewState
 import dev.amal.booksapp.viewmodel.MainViewModel
-import dev.spikeysanju.heybooks.components.BookDetailsCard
+import dev.amal.booksapp.components.BookDetailsCard
 
 @ExperimentalCoilApi
 @Composable

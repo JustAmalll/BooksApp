@@ -13,10 +13,12 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import coil.annotation.ExperimentalCoilApi
 import dev.amal.booksapp.view.BookDetailsScreen
 import dev.amal.booksapp.view.BookListScreen
 import dev.amal.booksapp.viewmodel.MainViewModel
 
+@ExperimentalCoilApi
 @ExperimentalComposeUiApi
 @Composable
 fun NavGraph() {

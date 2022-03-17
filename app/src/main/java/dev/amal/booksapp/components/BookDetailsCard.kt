@@ -1,4 +1,4 @@
-package dev.spikeysanju.heybooks.components
+package dev.amal.booksapp.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -16,7 +16,6 @@ import androidx.compose.ui.unit.dp
 import coil.annotation.ExperimentalCoilApi
 import coil.compose.rememberImagePainter
 import com.google.accompanist.flowlayout.FlowRow
-import dev.amal.booksapp.components.ChipView
 import dev.amal.booksapp.ui.theme.text
 import dev.amal.booksapp.ui.theme.typography
 
